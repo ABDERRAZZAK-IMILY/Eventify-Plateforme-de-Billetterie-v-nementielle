@@ -78,3 +78,11 @@ ul{
   padding: 20px;
 
 }
+
+.midel{
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(249, 249, 249);
+  align-items: center;
+  
+}
