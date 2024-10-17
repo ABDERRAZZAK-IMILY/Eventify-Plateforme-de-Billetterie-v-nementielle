@@ -100,3 +100,21 @@ ul{
 }
 
 
+.footer{
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  color: white;
+  background-color: #0A075F;
+  width: 100%;
+  margin-top: 50px;
+}
+
+
+.soimg{
+  margin-top: 50px;
+  display: flex;
+ justify-content: space-evenly;
+
+
+}
