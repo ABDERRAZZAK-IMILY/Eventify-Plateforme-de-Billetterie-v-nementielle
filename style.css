@@ -34,7 +34,12 @@ body{
   margin-left: 100px;
 
  }
-
+.butt:hover {
+  background-color: crimson;
+}
+a:hover{
+  color: darkred;
+}
 .butt {
   background: none;
   border-radius: 50px;
