@@ -70,3 +70,16 @@
     height: 100px;
     object-fit: cover;
    }
+
+  .search{
+
+   height: 30px;
+
+
+  }
+  .button1{
+    height: 35px;
+    width: 100px;
+    border-radius: 7px;
+    background-color: deeppink;
+  }
